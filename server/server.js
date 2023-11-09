@@ -3,7 +3,7 @@ import cors from 'cors';
 import OpenAI from "openai";
 import axios from 'axios';
 
-const openai = new OpenAI({ apiKey: "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" });
+const openai = new OpenAI({ apiKey: "sk-J****************" });
 
 const app = express();
 
